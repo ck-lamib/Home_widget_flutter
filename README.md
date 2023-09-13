@@ -1,16 +1,8 @@
-# home_widget_test
+# Home Widget in flutter
+<img src="https://github.com/ck-lamib/Home_widget_flutter/assets/108686886/1fbb9a1c-3e84-452f-8498-a1b5c6a061c8" alt="Image" width="200" height="400" style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 3px 3px 5px #888888;">
 
-A new Flutter project.
 
-## Getting Started
+## Preview of the widget is given below:
 
-This project is a starting point for a Flutter application.
+https://github.com/ck-lamib/Home_widget_flutter/assets/108686886/caa2c7e6-411b-4a74-b473-c6012a43ee9f
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
